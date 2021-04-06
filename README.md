@@ -6,7 +6,7 @@ EE0005 DSAI Mini Project
 Team Members:
 1. Germaine 
 2. Hakeem
-3. Kok leong
+3. Sebastian :D
 4. Wei Ming
 
 ## References
